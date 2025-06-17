@@ -1,0 +1,201 @@
+query,output
+List all tables in the database,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+Show all wells,non-geospatial
+Show all wells,non-geospatial
+Show last updated date of all rows,non-geospatial
+Sort all entries by creation date,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Show all wells,non-geospatial
+List all tables in the database,non-geospatial
+List buildings that are within flood zones,geospatial
+Find hydrolines that intersect with townships,geospatial
+Select polygons that touch the city boundary,geospatial
+Fetch distinct township names,non-geospatial
+List all tables in the database,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+Show all wells,non-geospatial
+Show wells within 500 meters of hydrolines,geospatial
+Display metadata of the hydrolines table,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Show all wells,non-geospatial
+Show all wells,non-geospatial
+Show last updated date of all rows,non-geospatial
+Show wells within 500 meters of rivers,geospatial
+Show wells within 500 meters of rivers,geospatial
+Get the total number of wells,non-geospatial
+List buildings that are within flood zones,geospatial
+Find lakes within a 1km radius of schools,geospatial
+Sort all entries by creation date,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+Buffer all roads by 50 meters,geospatial
+Find hydrolines that intersect with townships,geospatial
+Extract the pipelines and buffer them by 100m,geospatial
+Display metadata of the hydrolines table,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+Fetch distinct township names,non-geospatial
+List all tables in the database,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Show points that are contained in a region,geospatial
+Display metadata of the hydrolines table,non-geospatial
+Show points that are contained in a region,geospatial
+Fetch distinct township names,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Show all wells,non-geospatial
+Show all wells,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+List all roads sorted alphabetically,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+List all roads sorted alphabetically,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+List buildings that are within flood zones,geospatial
+Show last updated date of all rows,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+Sort all entries by creation date,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Display well IDs and names,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Fetch distinct township names,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Find hydrolines that intersect with townships,geospatial
+Get parks that intersect with bike paths,geospatial
+Select polygons that touch the city boundary,geospatial
+Show all wells,non-geospatial
+Display well IDs and names,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+Extract the pipelines and buffer them by 100m,geospatial
+Show points that are contained in a region,geospatial
+Get all wells inside township boundaries,geospatial
+List all tables in the database,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Select polygons that touch the city boundary,geospatial
+Find hydrolines that intersect with townships,geospatial
+Show last updated date of all rows,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Sort all entries by creation date,non-geospatial
+List all tables in the database,non-geospatial
+Show last updated date of all rows,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Fetch distinct township names,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+Show wells within 500 meters of rivers,geospatial
+Show wells within 500 meters of rivers,geospatial
+List all roads sorted alphabetically,non-geospatial
+List all tables in the database,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+List all tables in the database,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Fetch distinct township names,non-geospatial
+Select polygons that touch the city boundary,geospatial
+Sort all entries by creation date,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Display well IDs and names,non-geospatial
+Show wells within 500 meters of rivers,geospatial
+Display well IDs and names,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Fetch distinct township names,non-geospatial
+List buildings that are within flood zones,geospatial
+Select polygons that touch the city boundary,geospatial
+Sort all entries by creation date,non-geospatial
+Extract the pipelines and buffer them by 100m,geospatial
+Get all wells inside township boundaries,geospatial
+List all tables in the database,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+Get parks that intersect with bike paths,geospatial
+Retrieve all entries from pipelines table,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Get all wells inside township boundaries,geospatial
+Display well IDs and names,non-geospatial
+Show last updated date of all rows,non-geospatial
+Show last updated date of all rows,non-geospatial
+Show wells within 500 meters of rivers,geospatial
+Find hydrolines that intersect with townships,geospatial
+Buffer all roads by 50 meters,geospatial
+Fetch distinct township names,non-geospatial
+Get parks that intersect with bike paths,geospatial
+List all tables in the database,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+Fetch distinct township names,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+List all tables in the database,non-geospatial
+List all tables in the database,non-geospatial
+Show points that are contained in a region,geospatial
+Get parks that intersect with bike paths,geospatial
+Show points that are contained in a region,geospatial
+Get all wells inside township boundaries,geospatial
+Select polygons that touch the city boundary,geospatial
+Get parks that intersect with bike paths,geospatial
+Show points that are contained in a region,geospatial
+Get all wells inside township boundaries,geospatial
+Show points that are contained in a region,geospatial
+Show wells within 500 meters of rivers,geospatial
+Select polygons that touch the city boundary,geospatial
+Find lakes within a 1km radius of schools,geospatial
+Buffer all roads by 50 meters,geospatial
+List all roads sorted alphabetically,non-geospatial
+List buildings that are within flood zones,geospatial
+Sort all entries by creation date,non-geospatial
+List buildings that are within flood zones,geospatial
+Get parks that intersect with bike paths,geospatial
+Display metadata of the hydrolines table,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Show all wells,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+Sort all entries by creation date,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Get parks that intersect with bike paths,geospatial
+Select polygons that touch the city boundary,geospatial
+List all tables in the database,non-geospatial
+Show points that are contained in a region,geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+Buffer all roads by 50 meters,geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Display well IDs and names,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+List all roads sorted alphabetically,non-geospatial
+Display well IDs and names,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+Get all wells inside township boundaries,geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Fetch distinct township names,non-geospatial
+Select polygons that touch the city boundary,geospatial
+Show all wells,non-geospatial
+Buffer all roads by 50 meters,geospatial
+Retrieve all entries from pipelines table,non-geospatial
+Find lakes within a 1km radius of schools,geospatial
+List all tables in the database,non-geospatial
+Get the total number of wells,non-geospatial
+Show last updated date of all rows,non-geospatial
+Get parks that intersect with bike paths,geospatial
+Extract the pipelines and buffer them by 100m,geospatial
+List all roads sorted alphabetically,non-geospatial
+List buildings that are within flood zones,geospatial
+Show all wells,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Show last updated date of all rows,non-geospatial
+Fetch distinct township names,non-geospatial
+Get all wells inside township boundaries,geospatial
+Extract the pipelines and buffer them by 100m,geospatial
+Sort all entries by creation date,non-geospatial
+Extract the pipelines and buffer them by 100m,geospatial
+Buffer all roads by 50 meters,geospatial
+Show all wells,non-geospatial
+Show all wells,non-geospatial
+Show last updated date of all rows,non-geospatial
+Find hydrolines that intersect with townships,geospatial
+Get all wells inside township boundaries,geospatial
+List all roads sorted alphabetically,non-geospatial
+List all roads sorted alphabetically,non-geospatial
+Display metadata of the hydrolines table,non-geospatial
+Show wells within 500 meters of rivers,geospatial
+List all roads sorted alphabetically,non-geospatial
+Extract the pipelines and buffer them by 100m,geospatial
